@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.alert {
+  text-align: center;
+  padding: .5em;
+  border-radius: .5em;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 18px;
+}
+
